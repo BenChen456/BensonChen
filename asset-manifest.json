@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/BensonChen/static/css/main.720c1e9c.css",
-    "main.js": "/BensonChen/static/js/main.7d1bdec3.js",
+    "main.css": "/BensonChen/static/css/main.bbeec6f0.css",
+    "main.js": "/BensonChen/static/js/main.8f8c1a8c.js",
     "static/js/787.cab162f8.chunk.js": "/BensonChen/static/js/787.cab162f8.chunk.js",
     "static/media/routineapp.PNG": "/BensonChen/static/media/routineapp.4c485c665d2067a2f8ba.PNG",
     "static/media/RoutineHomepage.PNG": "/BensonChen/static/media/RoutineHomepage.ae6ad32bf36722b60e0a.PNG",
     "index.html": "/BensonChen/index.html",
-    "main.720c1e9c.css.map": "/BensonChen/static/css/main.720c1e9c.css.map",
-    "main.7d1bdec3.js.map": "/BensonChen/static/js/main.7d1bdec3.js.map",
+    "main.bbeec6f0.css.map": "/BensonChen/static/css/main.bbeec6f0.css.map",
+    "main.8f8c1a8c.js.map": "/BensonChen/static/js/main.8f8c1a8c.js.map",
     "787.cab162f8.chunk.js.map": "/BensonChen/static/js/787.cab162f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.720c1e9c.css",
-    "static/js/main.7d1bdec3.js"
+    "static/css/main.bbeec6f0.css",
+    "static/js/main.8f8c1a8c.js"
   ]
 }
